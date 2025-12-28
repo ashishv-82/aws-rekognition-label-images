@@ -40,7 +40,3 @@ This project is an image labels generator built using Amazon Rekognition. It all
 
 ## Example Usage
 Update the `photo` and `bucket` variables in the script to match your S3 image and bucket names. Run the script to see detected labels and bounding boxes visualized on your image.
-
----
-
-Feel free to customize and extend this project for your own image recognition needs!
